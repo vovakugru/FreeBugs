@@ -1,5 +1,5 @@
 #include "func.h"
 int main() {
-    Go_func();
+    StartFunc();
     return 0;
 }
