@@ -27,7 +27,7 @@ void End() { // Exit file
 
 //----------
 
-template <class F1> // All Fout's display text
+template <class F1> // All Fouts are displaying text
 void Fout(F1 out) {
     cout << out;
 }
