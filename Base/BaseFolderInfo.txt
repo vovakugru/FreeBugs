@@ -1,0 +1,1 @@
+only for files that can be used as base-files for other projects
