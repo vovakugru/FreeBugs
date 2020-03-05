@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="AssemblerTest"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-AssemblerTest-Desktop_Qt_5_14_1_MinGW_64_bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-AssemblerTest-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-AssemblerTest-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-AssemblerTest-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-AssemblerTest-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AssemblerTest">
+				<Option output="D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-AssemblerTest-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/AssemblerTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-AssemblerTest-Desktop_Qt_5_14_1_MinGW_64_bit-Debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-AssemblerTest-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/Makefile&quot;  VERBOSE=1 AssemblerTest"/>
+					<CompileFile command="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-AssemblerTest-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-AssemblerTest-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-AssemblerTest-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AssemblerTest/fast">
+				<Option output="D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-AssemblerTest-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/AssemblerTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-AssemblerTest-Desktop_Qt_5_14_1_MinGW_64_bit-Debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-AssemblerTest-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/Makefile&quot;  VERBOSE=1 AssemblerTest/fast"/>
+					<CompileFile command="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-AssemblerTest-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-AssemblerTest-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-AssemblerTest-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-AssemblerTest-Desktop_Qt_5_14_1_MinGW_64_bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-AssemblerTest-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-AssemblerTest-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-AssemblerTest-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-AssemblerTest-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-AssemblerTest-Desktop_Qt_5_14_1_MinGW_64_bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-AssemblerTest-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-AssemblerTest-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-AssemblerTest-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/_bsu/programming/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-AssemblerTest-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/AssemblerTest/main.cpp">
+			<Option target="AssemblerTest"/>
+		</Unit>
+		<Unit filename="D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/AssemblerTest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,4 @@
+D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-test2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-test2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/CMakeFiles/test2.dir
+D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-test2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/CMakeFiles/edit_cache.dir
+D:/_bsu/programming/_GitHub/FreeBugs/Programming (Assembler)/Practice/Test/build-test2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/CMakeFiles/test2_autogen.dir

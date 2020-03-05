@@ -1,1 +1,1 @@
-for practice (Qt) task's only
+for practice (Qt) tasks only
