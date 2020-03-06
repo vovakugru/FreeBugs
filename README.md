@@ -1,2 +1,2 @@
-# FreeBugs
- don't panic
+# FreeBugsForYou
+ don't panic & try to fix them up)
