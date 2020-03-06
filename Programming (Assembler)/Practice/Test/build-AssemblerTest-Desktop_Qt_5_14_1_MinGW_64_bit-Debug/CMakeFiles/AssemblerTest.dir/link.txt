@@ -1,3 +1,0 @@
-"C:\Users\user\AppData\Local\JetBrains\CLion 2019.2.3\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\AssemblerTest.dir/objects.a
-D:\_bsu\programming\Qt\Tools\mingw730_64\bin\ar.exe cr CMakeFiles\AssemblerTest.dir/objects.a @CMakeFiles\AssemblerTest.dir\objects1.rsp
-D:\_bsu\programming\Qt\Tools\mingw730_64\bin\g++.exe --sysroot=D:/_bsu/programming/Qt/Tools/mingw730_32 -g   -Wl,--whole-archive CMakeFiles\AssemblerTest.dir/objects.a -Wl,--no-whole-archive  -o AssemblerTest.exe -Wl,--out-implib,libAssemblerTest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\AssemblerTest.dir\linklibs.rsp
