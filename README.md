@@ -1,2 +1,4 @@
-# FreeBugsForYou
- don't panic & try to fix them up)
+# Rules (valid from 12.03.2020):
+1. be active (at least 1 useful commit per 2 weeks);
+2. keep file hierarchy;
+3. don't spam.
